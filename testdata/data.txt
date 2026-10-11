@@ -1,0 +1,6 @@
+Experience - QA Automation Engineer: 
+Develop and execute automated test scripts using Python, Selenium, Behave BDD, increasing testing efficiency by 30%
+Integrate Allure for test automation reporting, increasing test result visibility by 35%
+Identify and report 50+ defects in the tracking system, contributing to the overall improvement of the application’s quality
+Set up cross-browser execution of Selenium tests in the BrowserStack cloud, leading to a 25% increase in test coverage between browsers
+Participate in daily Scrum meetings and sprint planning for discussing the requirements, the findings, bug fixes, and the latest builds
